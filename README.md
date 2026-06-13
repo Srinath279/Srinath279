@@ -29,7 +29,8 @@ I build production-grade LLM platforms and multi-agent systems at **Verizon**. M
 | --- | --- | --- |
 | [agent-sandbox](https://github.com/Srinath279/agent-sandbox) | Sandbox for experimenting with LLM agents & multi-agent systems | Python, LangGraph |
 | [pytorch-DL](https://github.com/Srinath279/pytorch-DL) | Hands-on deep learning: CNNs, ResNet, transfer learning | PyTorch |
-| [lnglo](https://github.com/Srinath279/lnglo) | Dockerized Python backend with docker-compose & CI/CD | Python, Docker |
+| [mlflow](https://github.com/Srinath279/mlflow) | Dockerized MLflow tracking server with auth & secrets management | Docker, MLflow |
+| [Inglo](https://github.com/Srinath279/Inglo) | Dockerized Python backend with docker-compose & CI/CD | Python, Docker |
 
 ---
 
